@@ -2,7 +2,7 @@
 - 👀 I’m interested in lerarning to program at a basic level
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Myralindk@gail.com
+- 📫 How to reach me Myralindk@gmail.com
 
 <!---
 Myralin/Myralin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
